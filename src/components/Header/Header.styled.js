@@ -23,6 +23,8 @@ export const StyledHeader = styled.header`
     &.active {
       color: purple;
     }
+     }
 `;
+  
 
 export default StyledHeader;
